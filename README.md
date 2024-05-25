@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuprem&label=Profile%20views&color=0e75b6&style=flat" alt="anshuprem" /> </p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anshuprem&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-
 <p align="left"> <a href="https://twitter.com/anshuprem57" target="blank"><img src="https://img.shields.io/twitter/follow/anshuprem57?logo=twitter&style=for-the-badge" alt="anshuprem57" /></a> </p>
 
 - 🔭 I’m currently working on [Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)
