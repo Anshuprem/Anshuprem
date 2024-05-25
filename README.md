@@ -53,9 +53,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anshuprem&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuprem&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anshuprem&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
