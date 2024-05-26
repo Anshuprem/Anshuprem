@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anshuprem Behera</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <a href="https://twitter.com/anshuprem57" target="blank"><img src="https://img.shields.io/twitter/follow/anshuprem57?logo=twitter&style=for-the-badge" alt="anshuprem57" /></a> </p>
 
 - 🔭 I’m currently working on [Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)
