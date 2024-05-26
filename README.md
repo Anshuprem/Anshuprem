@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)
 
-- 🤝 I’m looking for help with [Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)
+- 🤝 I’m looking for help with
 
 - 📫 How to reach me **anshuprem885@gmail.com**
 
