@@ -21,12 +21,9 @@
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-
+<p align="left">   
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,cpp,css,js,py,gcp,blender,figma,au,ae,ps,pr,xd,notion,kubernetes" />
+<img src="https://skillicons.dev/icons?i=github,git,cpp,css,js,py,gcp,blender,figma,ai,au,ae,ps,pr,xd,notion,kubernetes" />
 </a>
 
  ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
