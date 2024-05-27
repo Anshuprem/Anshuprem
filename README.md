@@ -17,8 +17,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/anshuprem8p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/anshuprem8p" /></a><a href="https://ko-fi.com/ko-fi.com/anshuprem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/anshuprem" /></a></p><br><br>
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=Anshuprem&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-](https://discord.gg/5jSxTfeg)![](https://github-readme-streak-stats.herokuapp.com/?user=Anshuprem&theme=dark&hide_border=false)<br/>
+[ 
+![](https://github-readme-stats.vercel.app/apiusername=Anshuprem&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+<br/>
+] <br/>
 
 
 ## 🏆 GitHub Trophies
