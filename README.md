@@ -8,15 +8,15 @@
 
 <br/>
 <div align="center">
-- 🔭 I’m currently working on  .[Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)**
+🔭 I’m currently working on .[Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)**
 
-- 🌱 I’m currently learning **Rust & React**
+🌱 I’m currently learning **Rust & React**
 
-- 👯 I’m looking to collaborate on 
+👯 I’m looking to collaborate on 
 
-- 🤝 I’m looking for help with
+🤝 I’m looking for help with
 
-- 📫 How to reach me **anshuprem885@gmail.com**
+📫 How to reach me **anshuprem885@gmail.com**
 
 </div>
 <h3 align="left">Languages and Tools:</h3>
