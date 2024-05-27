@@ -7,7 +7,7 @@
 <h3 align="center">A passionate UI UX Designer from India </h3>
 
 <br/>
-<div align="center">
+<div align="left">
 🔭 I’m currently working on .[Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)**
 
 🌱 I’m currently learning **Rust & React**
