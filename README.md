@@ -9,7 +9,7 @@
 <br/>
 <div align="left">
     
-🔭 I’m currently working on **.[Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)**
+🔭 I’m currently working on **[Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)**
 
 🌱 I’m currently learning **Rust & React**
 
