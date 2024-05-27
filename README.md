@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust & React**
 
-- 👯 I’m looking to collaborate on [Online Farmer's Market](https://github.com/Anshuprem/Online-Farmer-s-Market)
+- 👯 I’m looking to collaborate on 
 
 - 🤝 I’m looking for help with
 
