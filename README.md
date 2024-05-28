@@ -29,7 +29,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Anshuprem/output/github-contribution-grid-snake.svg" />
+    
+  ![snake gif](https://github.com/Anshuprem/Anshuprem/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 
