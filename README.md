@@ -34,7 +34,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Anshuprem/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
 <hr/>
@@ -47,8 +47,6 @@
   <br/>
  
 </div>
-
-<br/><br/>
 
 <hr/>
 
