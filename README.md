@@ -29,6 +29,8 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+
+  [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
     
   ![snake gif](https://github.com/Anshuprem/Anshuprem/blob/output/github-contribution-grid-snake.svg)
   
