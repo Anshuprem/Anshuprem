@@ -30,8 +30,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 
-  [![](https://raw.githubusercontent.com/Anshuprem/github-profile-summary-cards-example/master/profile-summary-card-output/Anshuprem/0-profile-details.svg)](https://github.com/Anshuprem/github-profile-summary-cards)
-    
+
   ![snake gif](https://github.com/Anshuprem/Anshuprem/blob/output/github-contribution-grid-snake.svg)
   
 </div>
