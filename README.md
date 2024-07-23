@@ -29,13 +29,21 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/Anshuprem/Anshuprem/blob/main/github-user-contribution%20(1).svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/Anshuprem/Anshuprem/blob/main/github-user-contribution%20(1).svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/Anshuprem/Anshuprem/blob/main/github-user-contribution%20(1).svg"
+  />
+</picture>
 
-
-  ![snake gif](https://github.com/Anshuprem/Anshuprem/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<hr/>
 
  <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
