@@ -21,10 +21,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,cpp,css,js,py,gcp,blender,figma,ai,au,ae,ps,pr,xd,notion,kubernetes" />
+<img src="https://skillicons.dev/icons?i=github,git,cpp,css,js,py,gcp,blender,kubernetes" />
 </a>
-
- ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
  </p>
 
 <div align="center">
