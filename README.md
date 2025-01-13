@@ -1,4 +1,3 @@
-<p align="left"> <a href="https://twitter.com/anshuprem57" target="blank"><img src="https://img.shields.io/twitter/follow/anshuprem57?logo=twitter&style=for-the-badge" alt="anshuprem57" /></a> </p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anshuprem+Behera!;" />
 </h1>
