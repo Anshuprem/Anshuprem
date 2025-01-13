@@ -3,17 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anshuprem+Behera!;" />
 </h1>
 
-<h3 align="center">A passionate UI UX Designer from India </h3>
+<h3 align="center">A passionate AI ML Enthusiast </h3>
 
 <div align="left">
     
-🔭 I’m currently working on **[no ongoing](https://github.com/Anshuprem/)**
+🔭 I’m currently working on **[AI CHATTBOT](https://github.com/Anshuprem/)**
 
-🌱 I’m currently learning **Rust & React**
-
-👯 I’m looking to collaborate on 
-
-🤝 I’m looking for help with
+🌱 I’m currently learning **Python & its libraries & C++**
 
 📫 How to reach me **anshuprem885@gmail.com**
 
@@ -21,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,cpp,css,js,py,gcp,blender,kubernetes" />
+<img src="https://skillicons.dev/icons?i=github,git,cpp,css,js,py,gcp,blender,kubernetes,c++,numpy,pandas,tenserflow" />
 </a>
  </p>
 
