@@ -16,7 +16,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,cpp,py,gcp,numpy,pandas,tenserflow,anaconda,pytorch" />
+<img src="https://skillicons.dev/icons?i=github,git,cpp,py,gcp,anaconda,pytorch" />
 </a>
  </p>
 
