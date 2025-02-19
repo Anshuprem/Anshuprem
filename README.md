@@ -1,24 +1,3 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anshuprem+Behera!;" />
-</h1>
-
-<h3 align="center">A passionate AI ML Enthusiast </h3>
-
-<div align="left">
-    
-🔭 I’m currently working on **[AI CHATTBOT](https://github.com/Anshuprem/)**
-
-🌱 I’m currently learning **Python & its libraries & C++**
-
-📫 How to reach me **anshuprem885@gmail.com**
-
-</div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">   
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,cpp,py,gcp,anaconda,pytorch" />
-</a>
- </p>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
