@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions </h2>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
